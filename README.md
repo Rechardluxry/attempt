@@ -1,2 +1,3 @@
 # attempt
 great day to someone ...
+*p = &a; //取地址a
